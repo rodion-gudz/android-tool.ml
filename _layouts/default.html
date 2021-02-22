@@ -1,16 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-
-    {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
-      </script>
-    {% endif %}
     <meta charset="UTF-8">
 
 {% seo %}
@@ -25,7 +15,7 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-        <a href="https://github.com/fast-geek/Android-Tool" class="btn">{{page.version | default: site.version | default: site.github.repository_name}}</a>
+        <a href="https://github.com/fast-geek/Android-Tool" class="btn">GitHub</a>
         <a href="https://t.me/android_tooI" class="btn">Telegram</a>
         <a href="https://github.com/fast-geek/Android-Tool/releases/download/1.1.0/Android-Tool-v1.1.0.jar" class="btn">Download Release</a>
         <a href="https://github.com/fast-geek/Android-Tool/archive/1.1.0.zip" class="btn">Download Source code</a>
