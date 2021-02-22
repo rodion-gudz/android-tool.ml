@@ -1,37 +1,55 @@
-## Android-Tool
 
-You can use the [editor on GitHub](https://github.com/fast-geek/fast-geek.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+  # Android Tool
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  ![Logo](https://i.imgur.com/39WxvOV.png)
+  
+  ## What is it?
 
-### Markdown
+  #### Android Tool is a powerful and beautiful program, created to make popular adb and fastboot commands easier to use. A dark theme, intuitive interface and other features
+  ### Latest Version: **1.1.0**
+  ## Main Features:
+  * #### Batch and single app installation (.apk files)
+  * #### Disable, enable or uninstall system apps
+  * #### Open, force stop or clear data of your apps
+  * #### Receive and save logs from your device
+  * #### Install or boot custom recovery or wipe partitions
+  * #### Always relevant links to firmware and everything you need
+  * #### And not only 😉
+  
+  ## Links:
+  * #### Telegram channel - [@android_tooI](https://t.me/android_tooI)
+  * #### Telegram chat - [@android_tooI_chat](https://t.me/android_tooI_chat)
+  * #### 4PDA thread - [Android Tool](https://4pda.ru/forum/index.php?showtopic=1000362)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  ## Screenshots:
+  * ##### Adb 
+  ![Adb Screenshot](https://i.imgur.com/zwdtIX3.png)
+  * ##### Logcat
+  ![Logcat Screenshot](https://i.imgur.com/lwLcS2Z.png)
+  * ##### Fastboot 
+  ![Fastboot Screenshot](https://i.imgur.com/yX5PzHs.png)
+  * ##### Recovery
+  ![Recovery Screenshot](https://i.imgur.com/1dulPXb.png)
+  * ##### Console
+  ![Console Screenshot](https://i.imgur.com/ukc21M6.png)
+  * ##### Links
+  ![Links Screenshot](https://i.imgur.com/EmmYFbv.png)
 
-```markdown
-Syntax highlighted code block
+  ## The Latest Version And Updates
+  ##### You can find the latest version on [Github Repository Releases](https://github.com/fast-geek/Android-Tool/releases)
 
-# Header 1
-## Header 2
-### Header 3
+  ## Usage
+  ### First method (Recommended)
+  * #### Download program .jar file
+  * #### Open it and click "Install" button to download SDK Platform Tools
+  * #### Enjoy 😉
+  ### Second method (Portable)
+  * #### Download a portable zip for your system
+  * #### Extract him
+  * #### Open program .jar file and enjoy 😉 
 
-- Bulleted
-- List
+  ## Requirements
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fast-geek/fast-geek.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  * ##### OS (Windows (10, 8.1, 8), Linux, MacOS)
+  * ##### JRE (Java Runtime Environment)
+  
