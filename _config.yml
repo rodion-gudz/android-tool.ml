@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Android-Tool
 description: Program, created to make popular adb and fastboot commands easier to use 
 show_downloads: true
+github:
+  zip_url: http://example.com/download.zip
