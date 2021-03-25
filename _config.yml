@@ -5,7 +5,7 @@ baseurl: ""
 url: "https://friendly-telegram.gitlab.io"
 
 # Build settings
-theme: just-the-docs
+theme: jekyll-theme-minimal
 
 permalink: pretty
 
