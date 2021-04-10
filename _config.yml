@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: Android-Tool
 version: 1.2.3
 description: Program, created to make popular adb and fastboot commands easier to use
